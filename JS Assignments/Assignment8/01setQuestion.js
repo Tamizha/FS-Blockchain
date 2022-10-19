@@ -1,0 +1,3 @@
+/*We cannot duplicate values in a set Object.
+Value in a set can occur only once.
+It helps to store unique value of any datatype.*/
